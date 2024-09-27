@@ -23,6 +23,14 @@
 显示内容
 
 </details>
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,gmail,idea,kafka,linux,mongodb,mysql,notion,redis,sublime,scala,yarn,github&theme=light)](https://skillicons.dev)
+
+
+
+
+
 <!--
 **Leijingwen/Leijingwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
