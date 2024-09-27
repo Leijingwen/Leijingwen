@@ -28,7 +28,14 @@
 [![My Skills](https://skillicons.dev/icons?i=java,gmail,idea,kafka,linux,mongodb,mysql,notion,redis,sublime,scala,yarn,github&theme=light)](https://skillicons.dev)
 
 
+<p align="center">
 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache3.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" />
+
+</p>
 
 
 <!--
