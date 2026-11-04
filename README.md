@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111C3D,100:0E7490&text=LEIJINGWEN&fontColor=E6F7FF&fontSize=54&fontAlignY=38&desc=Java%20%E2%80%A2%20Python%20%E2%80%A2%20Systems%20Thinking&descAlignY=60&descSize=16&animation=fadeIn" alt="Leijingwen profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111C3D,100:0E7490&text=LEIJINGWEN&fontColor=E6F7FF&fontSize=54&fontAlignY=38&desc=Java%20%E2%80%A2%20SQL%20%E2%80%A2%20Systems%20Thinking&descAlignY=60&descSize=16&animation=fadeIn" alt="Leijingwen profile banner" width="100%" />
 
 ### Building software that stays calm under load.
 
