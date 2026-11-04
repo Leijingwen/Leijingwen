@@ -23,7 +23,7 @@
 
 I like turning complicated requirements into systems that are easy to reason about, operate, and improve.
 
-My current toolkit sits around **Java**, **Python**, and the infrastructure that helps products move reliably: messaging, databases, Linux, and developer tooling.
+My current toolkit sits around **Java**, **SQL**, and the infrastructure that helps products move reliably: messaging, databases, Linux, and developer tooling.
 
 **Never too late to learn.**
 
