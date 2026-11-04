@@ -53,8 +53,8 @@ workflow    Linux · GitHub · Notion
 ## Selected signals
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leijingwen&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D2FE&icon_color=F59E0B&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leijingwen&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D2FE" alt="Top languages" />
+  <img width="480" src="./assets/stats.svg" alt="GitHub statistics" />
+  <img width="480" src="./assets/languages.svg" alt="Top languages" />
 </div>
 
 <br />
